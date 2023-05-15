@@ -1,0 +1,52 @@
+.logo {
+    float: none;
+    text-align: center;
+}
+
+#main ul, #main ul li {
+    float:none; 
+}
+
+#main ul li a {
+    padding: 10px;
+    border-bottom: #444 dotted 1px;
+}
+
+/* Home info */
+
+.img-info {
+    display: none;
+}
+
+.content-info {
+    position: relative;
+    top: 50px;
+    width: 100%;
+    float: none;
+}
+
+/* Boxes*/
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* About */
+
+#about-info .info-left {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+
+.photo-2 {
+    float: none;
+    display: none;
+}
+
+/* Contact-form */
+
+#contact-info .box {
+    border-bottom: #333 dashed 1px;
+}
